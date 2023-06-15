@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="svgroot" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 860 500" style="enable-background:new 0 0 860 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
@@ -13,6 +13,7 @@
 	.st7{font-size:30px;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
+	.text-bold{font-weight: 600;}
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
@@ -3220,7 +3221,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 121.6)"><tspan x="0" y="0" class="st0 st3 st4">Private green energy generation is on the rise.  </tspan><tspan x="0" y="19.6" class="st0 st3 st4">Photovoltaic (PV) can provide an accessible way to  </tspan><tspan x="0" y="39.2" class="st0 st3 st4">achieve energy independence by making energy  </tspan><tspan x="0" y="58.8" class="st0 st3 st4">generation and consumption possible at home. But  </tspan><tspan x="0" y="78.4" class="st0 st3 st4">convenient electricity at night and on cloudy days </tspan><tspan x="0" y="98" class="st0 st3 st4">requires combining self-supply with on-site energy  </tspan><tspan x="0" y="117.6" class="st0 st3 st4">storage capacity.  </tspan><tspan x="0" y="127.2" class="st0 st3 st5"> </tspan><tspan x="0" y="146.8" class="st0 st3 st4">Hybrid inverters cover both requirements. They connect </tspan><tspan x="0" y="166.4" class="st0 st3 st4">multiple PV panels and convert the generated direct  </tspan><tspan x="0" y="186" class="st0 st3 st4">current (DC) to alternating current (AC) that home  </tspan><tspan x="0" y="205.6" class="st0 st3 st4">appliances use. And they can also supply DC current </tspan><tspan x="0" y="225.2" class="st0 st3 st4">directly to Energy Storage Systems, e.g. batteries. </tspan><tspan x="0" y="234.8" class="st0 st3 st5"> </tspan><tspan x="0" y="254.4" class="st0 st3 st4">Our semiconductors make all this possible. See where  </tspan><tspan x="0" y="274" class="st0 st3 st4">and how. </tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40.0002 54.8998)"><tspan x="0" y="0" class="st0 st6 st7">When you think renewables, </tspan><tspan x="0" y="33" class="st0 st6 st7">think storage</tspan></text>
+		<text transform="matrix(1 0 0 1 40.0002 54.8998)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">When you think renewables, </tspan><tspan x="0" y="33" class="st0 st6 st7 fw-bold text-bold">think storage</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3252,9 +3253,10 @@
 			<circle class="st18" cx="510.46" cy="327.17" r="10"/>
 			<polygon class="st0" points="507.41,331.85 515.21,327.17 507.41,322.49 			"/>
 		</g>
+		
 		<g>
 			<rect x="529.79" y="319.3" class="st2" width="282.56" height="34.69"/>
-			<text transform="matrix(1 0 0 1 529.785 330.9166)"><tspan x="0" y="0" class="st18 st6 st4">Video (4:01):</tspan><tspan x="0" y="18" class="st9 st3 st4">Semiconductor solutions for photovoltaic </tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 330.9166)"><tspan id="animation-video" x="0" y="0" class="st18 st6 st4 text-bold">Video (4:01):</tspan><tspan x="0" y="18" class="st9 st3 st4">Semiconductor solutions for photovoltaic </tspan></text>
 		</g>
 	</g>
 	<g id="Button-Solar-01">
@@ -3265,9 +3267,12 @@
 			<polygon class="st0" points="507.41,253.99 515.21,249.3 507.41,244.62 			"/>
 		</g>
 		<line class="st8" x1="777.09" y1="292.17" x2="529.79" y2="292.17"/>
-		<g>
-			<rect x="529.79" y="241.43" class="st2" width="282.56" height="52.43"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" class="st18 st6 st4">3D animation:</tspan><tspan x="0" y="18" class="st9 st3 st4">The micro-perspective of energy efficiency </tspan><tspan x="0" y="36" class="st9 st3 st4">(wind, solar, data center, electric vehicles)</tspan></text>
+		<g id="test">
+			<rect id="circleDot" x="529.79" y="241.43" class="st2" width="282.56" height="52.43"/>
+			<a target="_blank" href="https://www.infineon.com/cms/en/about-infineon/energy-efficiency-technologies/3d-experience/">	
+				<text id="status" transform="matrix(1 0 0 1 529.785 253.0531)">
+				<tspan x="0" y="0" class="st18 st6 st4 text-bold">3D animation:</tspan><tspan id="tspan2" x="0" y="18" class="st9 st3 st4">The micro-perspective of energy efficiency </tspan><tspan x="0" y="36" class="st9 st3 st4 ">(wind, solar, data center, electric vehicles)</tspan></text>
+			</a>
 		</g>
 	</g>
 </g>
@@ -15048,4 +15053,26 @@ rdStijpxafX12M68V5tSSMzCovBP99Af+OqU9HotMfirKP8AjpH+Fqf27f0Fm9Lbl/8AlsI/2D//
 2Q==" transform="matrix(0.1667 0 0 0.1667 500 34)">
 	</image>
 </g>
+
+<script>
+		document.getElementById("svgroot").addEventListener("click", sendClickToParentDocument, false);
+		function sendClickToParentDocument(evt)
+		{
+			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
+			var target = evt.target;
+			if(target.correspondingUseElement)
+				target = target.correspondingUseElement;
+
+				if(target.id === "animation-video"){
+					window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/smart-lightning.mp4";
+					window.parent.document.getElementById("video").style.display = "block";
+		  	 		window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
+				}
+		}
+
+		function closeVideo() {
+			window.parent.document.getElementById("video").style.display = "none";
+			window.parent.document.getElementById("image-source").pause();
+		}
+	</script>
 </svg>

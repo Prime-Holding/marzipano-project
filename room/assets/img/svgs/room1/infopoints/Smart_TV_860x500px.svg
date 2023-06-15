@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="svgroot" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 860 500" style="enable-background:new 0 0 860 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
@@ -13,6 +13,7 @@
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
+	.text-bold{font-weight: 600;}
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
@@ -3220,7 +3221,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 121.6721)"><tspan x="0" y="0" class="st0 st3 st4">Wouldn’t it be nice to look at a pleasant artwork instead of </tspan><tspan x="0" y="19.6" class="st0 st3 st4">a black space when your TV is not in use? The Samsung </tspan><tspan x="0" y="39.2" class="st0 st3 st4">Frame TV offers this feature. However, an artwork screen </tspan><tspan x="0" y="58.8" class="st0 st3 st4">that is “always on” would also consume a lot of energy. </tspan><tspan x="0" y="78.4" class="st0 st3 st4">That’s why the device contains a radar sensor that can </tspan><tspan x="0" y="98" class="st0 st3 st4">detect people in the room and turns off the art mode once </tspan><tspan x="0" y="117.6" class="st0 st3 st4">nobody is around. This not only saves OLED lifetime but </tspan><tspan x="0" y="137.2" class="st0 st3 st4">also energy. Very clever!</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 38.583 54.9)"><tspan x="0" y="0" class="st0 st6 st7">Smart TV</tspan><tspan x="0" y="33" class="st0 st6 st7">Show me art</tspan></text>
+		<text transform="matrix(1 0 0 1 38.583 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Smart TV</tspan><tspan x="0" y="33" class="st0 st6 st7 text-bold">Show me art</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3256,7 +3257,7 @@
 		<g>
 			<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
 			<a target="_blank" href="https://www.infineon.com/cms/de/product/sensor/radar-sensors/radar-sensors-for-iot/60ghz-radar/">
-				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4">More on 60 GHz radar solutions</text>
+				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">More on 60 GHz radar solutions</text>
 			</a>
 		</g>
 	</g>
@@ -3269,7 +3270,7 @@
 		</g>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="282.56" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" class="st18 st6 st4">Video (1:09):</tspan><tspan x="0" y="18" class="st9 st3 st4">Energy savings with sensors</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (1:09):</tspan><tspan x="0" y="18" class="st9 st3 st4">Energy savings with sensors</tspan></text>
 		</g>
 	</g>
 </g>
@@ -12201,4 +12202,22 @@ Q5dQ2BHM44L02v2tj3KPC64dVGLpP7HY+RyQoLT4PrKF7H+5BeKU9fjxuIOMjTEq97m/nBrsZHkf
 		</g>
 	</g>
 </g>
+<script>
+		document.getElementById("svgroot").addEventListener("click", sendClickToParentDocument, false);
+		function sendClickToParentDocument(evt)
+		{
+			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
+			var target = evt.target;
+			if(target.id === "animation-video"){
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/smart-lightning.mp4";
+		  		window.parent.document.getElementById("video").style.display = "block";
+		  	 	window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
+			}
+		}
+
+		function closeVideo() {
+			window.parent.document.getElementById("video").style.display = "none";
+			window.parent.document.getElementById("image-source").pause();
+		}
+	</script>
 </svg>

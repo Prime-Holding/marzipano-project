@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="svgroot" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 860 500" style="enable-background:new 0 0 860 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
@@ -14,6 +14,7 @@
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
+	.text-bold{font-weight: 600;}
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
@@ -3221,7 +3222,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 121.6721)"><tspan x="0" y="0" class="st0 st3 st4">We start our day in the kitchen with a cup of coffee or tea. </tspan><tspan x="0" y="19.6" class="st0 st3 st4">When we work from home, we sneak back into the kitchen </tspan><tspan x="0" y="39.2" class="st0 st3 st4">a few hours later for a snack. The kitchen is the central </tspan><tspan x="0" y="58.8" class="st0 st3 st4">room in our own four walls – from early morning until late </tspan><tspan x="0" y="78.4" class="st0 st3 st4">at night. And every party ends in the kitchen – that&apos;s a </tspan><tspan x="0" y="98" class="st0 st3 st4">well-known fact. </tspan><tspan x="0" y="107.6" class="st0 st3 st5"> </tspan><tspan x="0" y="127.2" class="st0 st3 st4">Energy efficiency and convenience complement each </tspan><tspan x="0" y="146.8" class="st0 st3 st4">other ideally here. Innovative semiconductor solutions </tspan><tspan x="0" y="166.4" class="st0 st3 st4">make this possible.</tspan><tspan x="0" y="176" class="st0 st3 st5"> </tspan><tspan x="0" y="195.6" class="st0 st3 st4">Modern refrigerators, for example, are smart and  </tspan><tspan x="0" y="215.2" class="st0 st3 st4">connected. Their motors are controlled by power chips, </tspan><tspan x="0" y="234.8" class="st0 st3 st4">sensors and microcontrollers. These components make </tspan><tspan x="0" y="254.4" class="st0 st3 st4">motors pleasantly silent, energy efficient and smaller.</tspan><tspan x="0" y="274" class="st0 st3 st4">In this way, the devices only consume as much electricity </tspan><tspan x="0" y="293.6" class="st0 st3 st4">as they actually need. </tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40.0002 54.9)"><tspan x="0" y="0" class="st0 st6 st7">The kitchen – energy </tspan><tspan x="0" y="33" class="st0 st6 st7">efficient and convenient</tspan></text>
+		<text transform="matrix(1 0 0 1 40.0002 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">The kitchen – energy </tspan><tspan x="0" y="33" class="st0 st6 st7 text-bold">efficient and convenient</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3249,7 +3250,7 @@
 		<g>
 			<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
 			<a target="_blank" href="https://www.infineon.com/home-appliances">
-				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4">Full portfolio for home appliances</text>
+				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Full portfolio for home appliances</text>
 			</a>
 		</g>
 	</g>
@@ -3262,7 +3263,7 @@
 		</g>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="282.56" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" class="st18 st6 st4">Video (2:38):</tspan><tspan x="0" y="18" class="st9 st3 st4">Where semiconductors do their job</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0"  id="animation-video"  class="st18 st6 st4 text-bold">Video (2:38):</tspan><tspan x="0" y="18" class="st9 st3 st4">Where semiconductors do their job</tspan></text>
 		</g>
 	</g>
 </g>
@@ -5267,4 +5268,22 @@ uAeoGP/Z" transform="matrix(0.5752 0 0 0.5752 497.5 -8.849557e-03)">
 </g>
 <g id="Picture">
 </g>
+<script>
+		document.getElementById("svgroot").addEventListener("click", sendClickToParentDocument, false);
+		function sendClickToParentDocument(evt)
+		{
+			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
+			var target = evt.target;
+			if(target.id === "animation-video"){
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/smart-appliances.mp4";
+		  		window.parent.document.getElementById("video").style.display = "block";
+		  	 	window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
+			}
+		}
+
+		function closeVideo() {
+			window.parent.document.getElementById("video").style.display = "none";
+			window.parent.document.getElementById("image-source").pause();
+		}
+	</script>
 </svg>

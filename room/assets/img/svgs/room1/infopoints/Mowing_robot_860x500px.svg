@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="svgroot" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 860 500" style="enable-background:new 0 0 860 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
@@ -13,6 +13,7 @@
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
+	.text-bold{font-weight: 600;}
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
@@ -3220,7 +3221,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 154.6003)"><tspan x="0" y="0" class="st0 st3 st4">Simply relaxing in the garden and watching the quiet lawn </tspan><tspan x="0" y="19.6" class="st0 st3 st4">mower doing the work? Or moving freely without cable </tspan><tspan x="0" y="39.2" class="st0 st3 st4">salad while trimming your hedge or drilling holes for  </tspan><tspan x="0" y="58.8" class="st0 st3 st4">a shelf? Cordless, electric tools are in trend. Conversely, </tspan><tspan x="0" y="78.4" class="st0 st3 st4">combustion-powered tools are a thing of the past.  </tspan><tspan x="0" y="98" class="st0 st3 st4">They are noisy and pollute. That’s why small gas-powered </tspan><tspan x="0" y="117.6" class="st0 st3 st4">equipment such as a lawn mowers or leaf blowers will </tspan><tspan x="0" y="137.2" class="st0 st3 st4">probably be banned in the near future. Instead, we can </tspan><tspan x="0" y="156.8" class="st0 st3 st4">see strong growth for green power tools equipped with </tspan><tspan x="0" y="176.4" class="st0 st3 st4">efficient brushless motors and lithium-ion batteries.  </tspan><tspan x="0" y="196" class="st0 st3 st4">And what might surprise you: They offer the same or even </tspan><tspan x="0" y="215.6" class="st0 st3 st4">better performance. </tspan><tspan x="0" y="244.8" class="st0 st3 st4">This is due in particular to modern microelectronics. They </tspan><tspan x="0" y="264.4" class="st0 st3 st4">are part of the motor, the battery, and the charger,  </tspan><tspan x="0" y="284" class="st0 st3 st4">where they help reduce energy consumption and increase </tspan><tspan x="0" y="303.6" class="st0 st3 st4">battery life. </tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40.0002 54.9)"><tspan x="0" y="0" class="st0 st6 st7">Cordless power tools </tspan><tspan x="0" y="33" class="st0 st6 st7">from fueled to electric, </tspan><tspan x="0" y="66" class="st0 st6 st7">from corded to cordless</tspan></text>
+		<text transform="matrix(1 0 0 1 40.0002 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Cordless power tools </tspan><tspan x="0" y="33" class="st0 st6 st7 text-bold">from fueled to electric, </tspan><tspan x="0" y="66" class="st0 st6 st7 text-bold">from corded to cordless</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3243,14 +3244,14 @@
 		<g>
 			<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
 			<a target="_blank" href="https://www.infineon.com/cms/en/applications/consumer-electronics/power-tools/battery-powered/">
-				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4">Application page cordless power tools</text>
+				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Application page cordless power tools</text>
 			</a>
 		</g>
 	</g>
 	<g id="Mowing_x5F_Button-01">
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="290.21" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" class="st18 st6 st4">Video (1:15):</tspan><tspan x="0" y="18" class="st9 st3 st4">Functional blocks of power tools</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (1:15):</tspan><tspan x="0" y="18" class="st9 st3 st4">Functional blocks of power tools</tspan></text>
 		</g>
 		<line class="st8" x1="719.23" y1="274.17" x2="529.79" y2="274.17"/>
 		<line class="st8" x1="598.65" y1="256.04" x2="529.79" y2="256.04"/>
@@ -24724,4 +24725,22 @@ V4Zf+lDcrP8Am1Mee5yn+ah/3W/gvl+/8SV+Dcbjwl+GYH3/AOAPys/5tXHvucoNoUP+638F8dd1
 		</g>
 	</g>
 </g>
+<script>
+		document.getElementById("svgroot").addEventListener("click", sendClickToParentDocument, false);
+		function sendClickToParentDocument(evt)
+		{
+			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
+			var target = evt.target;
+			if(target.id === "animation-video"){
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/cordless-power-tool.mp4";
+		  		window.parent.document.getElementById("video").style.display = "block";
+		  	 	window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
+			}
+		}
+
+		function closeVideo() {
+			window.parent.document.getElementById("video").style.display = "none";
+			window.parent.document.getElementById("image-source").pause();
+		}
+	</script>
 </svg>

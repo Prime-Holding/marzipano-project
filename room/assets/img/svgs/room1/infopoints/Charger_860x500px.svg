@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="svgroot" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 860 500" style="enable-background:new 0 0 860 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
@@ -14,6 +14,7 @@
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
+	.text-bold{font-weight: 600;}
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
@@ -3221,7 +3222,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 154.6003)"><tspan x="0" y="0" class="st0 st3 st4">Can you imagine life without portable communication </tspan><tspan x="0" y="19.6" class="st0 st3 st4">devices? Living without your laptop, tablet or mobile </tspan><tspan x="0" y="39.2" class="st0 st3 st4">phone? However, none of these useful and entertaining </tspan><tspan x="0" y="58.8" class="st0 st3 st4">devices are of any use to us if the battery is empty. So, </tspan><tspan x="0" y="78.4" class="st0 st3 st4">chargers are one of those tiny things of great importance. </tspan><tspan x="0" y="98" class="st0 st3 st4">We expect them to be fast charging, reliable, convenient </tspan><tspan x="0" y="117.6" class="st0 st3 st4">and green. Modern chargers especially designed with the </tspan><tspan x="0" y="137.2" class="st0 st3 st4">USB standard offer all of these aspects – with the help of </tspan><tspan x="0" y="156.8" class="st0 st3 st4">innovative microelectronics. </tspan><tspan x="0" y="166.4" class="st0 st3 st5"> </tspan><tspan x="0" y="186" class="st0 st3 st4">Infineon’s semiconductors, first and foremost gallium </tspan><tspan x="0" y="205.6" class="st0 st3 st4">nitride components, reduce energy losses and increase </tspan><tspan x="0" y="225.2" class="st0 st3 st4">performance. They also promote USB-C technology, </tspan><tspan x="0" y="244.8" class="st0 st3 st4">which helps avoid large amounts of electronic waste.</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 39 54.9)"><tspan x="0" y="0" class="st0 st6 st7">Charger and adapters </tspan><tspan x="0" y="33" class="st0 st6 st7">go green – with innovative </tspan><tspan x="0" y="66" class="st0 st6 st7">power chips</tspan></text>
+		<text transform="matrix(1 0 0 1 39 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Charger and adapters </tspan><tspan x="0" y="33" class="st0 st6 st7 text-bold">go green – with innovative </tspan><tspan x="0" y="66" class="st0 st6 st7 text-bold">power chips</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3240,7 +3241,7 @@
 		<g>
 			<rect x="509.66" y="321.91" class="st2" width="282.56" height="15.62"/>
 			<a target="_blank" href="https://www.infineon.com/cms/en/product/promopages/gan-charger/#cE">
-				<text transform="matrix(1 0 0 1 509.6573 333.5332)" class="st0 st6 st4">Full GaN charger/adapter solutions</text>
+				<text transform="matrix(1 0 0 1 509.6573 333.5332)" class="st0 st6 st4 text-bold">Full GaN charger/adapter solutions</text>
 			</a>
 		</g>
 	</g>
@@ -3249,7 +3250,7 @@
 		<line class="st8" x1="609.22" y1="292.17" x2="529.79" y2="292.17"/>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="290.21" height="55.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" class="st18 st6 st4">Video (1:01):</tspan><tspan x="0" y="18" class="st9 st3 st4">USB-C fast charging solutions tailored  </tspan><tspan x="0" y="36" class="st9 st3 st4">to your needs</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (1:01):</tspan><tspan x="0" y="18" class="st9 st3 st4">USB-C fast charging solutions tailored  </tspan><tspan x="0" y="36" class="st9 st3 st4">to your needs</tspan></text>
 		</g>
 		<line class="st8" x1="598.65" y1="256.04" x2="529.79" y2="256.04"/>
 		<g>
@@ -10990,4 +10991,22 @@ roQB/cfT0vP9CP8Ap76Mf66EAf3H09Lz/Qj/AKe+jH+uhAdfv7H/AOh30jehJ0N9peyrpPbOv5WV
 </g>
 <g id="Picture">
 </g>
+<script>
+		document.getElementById("svgroot").addEventListener("click", sendClickToParentDocument, false);
+		function sendClickToParentDocument(evt)
+		{
+			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
+			var target = evt.target;
+			if(target.id === "animation-video"){
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/fast-charging.mp4";
+		  		window.parent.document.getElementById("video").style.display = "block";
+		  	 	window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
+			}
+		}
+
+		function closeVideo() {
+			window.parent.document.getElementById("video").style.display = "none";
+			window.parent.document.getElementById("image-source").pause();
+		}
+	</script>
 </svg>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="svgroot" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 860 500" style="enable-background:new 0 0 860 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
@@ -13,6 +13,7 @@
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
+	.text-bold{font-weight: 600;}
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
@@ -3220,7 +3221,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 121.3121)"><tspan x="0" y="0" class="st0 st3 st4">Imagine a nice evening at home in the wintertime.  </tspan><tspan x="0" y="19.6" class="st0 st3 st4">Outside cold and dark, inside cozy and light. Lamps and </tspan><tspan x="0" y="39.2" class="st0 st3 st4">luminaires are an important and emotional part of  </tspan><tspan x="0" y="58.8" class="st0 st3 st4">your home. However, even if they are already much more </tspan><tspan x="0" y="78.4" class="st0 st3 st4">efficient, they consume energy. Especially when the entire </tspan><tspan x="0" y="98" class="st0 st3 st4">house is illuminated even if certain rooms are empty. </tspan><tspan x="0" y="117.6" class="st0 st3 st4">Occupation-based lighting can avoid this and help to save </tspan><tspan x="0" y="137.2" class="st0 st3 st4">significant amounts of energy: Radar sensors use  </tspan><tspan x="0" y="156.8" class="st0 st3 st4">presence detection to make sure that lights are only on </tspan><tspan x="0" y="176.4" class="st0 st3 st4">when a person is in the room.</tspan><tspan x="0" y="205.6" class="st0 st3 st4">XENSIV™ 60 GHz radar sensors could reduce energy  </tspan><tspan x="0" y="225.2" class="st0 st3 st4">consumption by 5%, resulting in potential savings  </tspan><tspan x="0" y="244.8" class="st0 st3 st4">of around 2.15 TWh for the EU residential sector  </tspan><tspan x="0" y="264.4" class="st0 st3 st4">(Infineon assumption).</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40.0002 54.9)"><tspan x="0" y="0" class="st0 st6 st7">Smart lighting</tspan><tspan x="0" y="33" class="st0 st6 st7">only on when needed</tspan></text>
+		<text transform="matrix(1 0 0 1 40.0002 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Smart lighting</tspan><tspan x="0" y="33" class="st0 st6 st7 text-bold">only on when needed</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3253,7 +3254,7 @@
 		<g>
 			<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
 			<a target="_blank" href="https://www.infineon.com/cms/en/applications/smart-home-building/home-building-automation/connected-and-smart-lighting/">
-				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4">More on connected and smart lighting</text>
+				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">More on connected and smart lighting</text>
 			</a>
 		</g>
 	</g>
@@ -3266,7 +3267,7 @@
 		</g>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="290.21" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" class="st18 st6 st4">Video (2:50):</tspan><tspan x="0" y="18" class="st9 st3 st4">Smart lighting with XENSIV™ 60 GHz radar sensor</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" id="animation-video"  y="0" class="st18 st6 st4 text-bold">Video (2:50):</tspan><tspan x="0" y="18" class="st9 st3 st4">Smart lighting with XENSIV™ 60 GHz radar sensor</tspan></text>
 		</g>
 	</g>
 </g>
@@ -19268,4 +19269,22 @@ MR6x7Lw2ML//2Q==" transform="matrix(0.1819 0 0 0.1819 499 29.3102)">
 		</g>
 	</g>
 </g>
+<script>
+		document.getElementById("svgroot").addEventListener("click", sendClickToParentDocument, false);
+		function sendClickToParentDocument(evt)
+		{
+			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
+			var target = evt.target;
+			if(target.id === "animation-video"){
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/smart-lightning.mp4";
+		  		window.parent.document.getElementById("video").style.display = "block";
+		  	 	window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
+			}
+		}
+
+		function closeVideo() {
+			window.parent.document.getElementById("video").style.display = "none";
+			window.parent.document.getElementById("image-source").pause();
+		}
+	</script>
 </svg>
