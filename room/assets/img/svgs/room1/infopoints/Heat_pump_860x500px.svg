@@ -3261,12 +3261,12 @@
 		<line class="st8" x1="598.65" y1="270.73" x2="529.79" y2="270.73"/>
 		<line class="st8" x1="783.74" y1="288.86" x2="529.79" y2="288.86"/>
 		<g>
-			<circle class="st18" cx="510.46" cy="264" r="10"/>
-			<polygon class="st0" points="507.41,268.68 515.21,264 507.41,259.32 			"/>
+			<circle id="animation-video" class="st18" cx="510.46" cy="264" r="10"/>
+			<polygon id="animation-video" class="st0" points="507.41,268.68 515.21,264 507.41,259.32 			"/>
 		</g>
 		<g>
 			<rect x="529.79" y="256.13" class="st2" width="282.56" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 267.7488)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (6:22):</tspan><tspan x="0" y="18" class="st9 st3 st4">Functionality and benefits briefly explained</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 267.7488)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (6:22):</tspan><tspan x="0" y="18" class="st9 st3 st4" id="animation-video">Functionality and benefits briefly explained</tspan></text>
 		</g>
 	</g>
 	<g id="kitchen_x5F_Button-02">

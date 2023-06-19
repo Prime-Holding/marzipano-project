@@ -3251,13 +3251,13 @@
 	<g id="Mowing_x5F_Button-01">
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="290.21" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (1:15):</tspan><tspan x="0" y="18" class="st9 st3 st4">Functional blocks of power tools</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (1:15):</tspan><tspan x="0" y="18" class="st9 st3 st4" id="animation-video">Functional blocks of power tools</tspan></text>
 		</g>
 		<line class="st8" x1="719.23" y1="274.17" x2="529.79" y2="274.17"/>
 		<line class="st8" x1="598.65" y1="256.04" x2="529.79" y2="256.04"/>
 		<g>
-			<circle class="st18" cx="510.46" cy="249.3" r="10"/>
-			<polygon class="st0" points="507.41,253.99 515.21,249.3 507.41,244.62 			"/>
+			<circle id="animation-video" class="st18" cx="510.46" cy="249.3" r="10"/>
+			<polygon id="animation-video" class="st0" points="507.41,253.99 515.21,249.3 507.41,244.62 			"/>
 		</g>
 	</g>
 </g>
