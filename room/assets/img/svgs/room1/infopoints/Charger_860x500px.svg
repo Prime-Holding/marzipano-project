@@ -15,6 +15,7 @@
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
 	.text-bold{font-weight: 600;}
+	.pointer:hover{cursor:pointer}
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
@@ -3245,7 +3246,7 @@
 			</a>
 		</g>
 	</g>
-	<g id="Charger_x5F_Button-01">
+	<g id="Charger_x5F_Button-01" class="pointer">
 		<line class="st8" x1="751.23" y1="274.17" x2="529.79" y2="274.17"/>
 		<line class="st8" x1="609.22" y1="292.17" x2="529.79" y2="292.17"/>
 		<g>

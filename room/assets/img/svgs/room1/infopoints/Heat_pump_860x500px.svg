@@ -29,6 +29,7 @@
 	.st23{fill:#FAE172;}
 	.st24{fill:#FAE172;stroke:#FAE172;stroke-width:4.4629;stroke-miterlimit:10;}
 	.text-bold{font-weight: 600;}
+	.pointer:hover{cursor:pointer}
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
@@ -3260,11 +3261,11 @@
 	<line class="st8" x1="598.65" y1="270.73" x2="529.79" y2="270.73"/>
 	<line class="st8" x1="805.28" y1="288.86" x2="529.79" y2="288.86"/>
 	<line class="st8" x1="582.92" y1="306.86" x2="529.79" y2="306.86"/>
-	<g>
+	<g class="pointer">
 		<circle id="animation-video" class="st18" cx="510.46" cy="264" r="10"/>
 		<polygon id="animation-video" class="st0" points="507.41,268.68 515.21,264 507.41,259.32 		"/>
 	</g>
-	<g>
+	<g class="pointer">
 		<rect x="529.79" y="256.13" class="st2" width="289.17" height="53.6"/>
 		<text transform="matrix(1 0 0 1 529.785 267.7483)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (44:12):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Heat pumps – market and technology overview </tspan><tspan x="0" y="36" id="animation-video" class="st9 st3 st4">May 2023</tspan></text>
 	</g>
