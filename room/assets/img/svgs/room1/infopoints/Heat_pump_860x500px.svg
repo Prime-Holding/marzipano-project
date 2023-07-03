@@ -6,10 +6,10 @@
 	.st0{fill:#FFFFFF;}
 	.st18{fill:#0A8276;}
 	.st2{fill:none;}
-	.st3{font-family:'SourceSans3-Regular';}
+	.st3{font-family:"Source Sans 3", sans-serif;}
 	.st4{font-size:14px;}
 	.st5{font-size:8px;}
-	.st6{font-family:'SourceSans3-Semibold';}
+	.st6{font-family:"Source Sans 3", sans-serif;}
 	.st7{font-size:30px;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
@@ -21,7 +21,7 @@
 	.st15{fill:#6DB4AD;}
 	.st16{fill:#229891;}
 	.st17{fill:#E0F1F1;}
-	.st38{clip-path:url(#SVGID_00000025415061990247953850000008867069036042165675_);}
+	.st38{clip-path:url(#SVGID_00000074414069226141953790000015374450974003449266_);}
 	.st19{fill:none;stroke:#B7DEDA;stroke-width:0.3719;stroke-miterlimit:10;}
 	.st20{fill:none;stroke:#B7DEDA;stroke-width:0.7438;stroke-miterlimit:10;}
 	.st21{fill:#08675D;}
@@ -32,7 +32,7 @@
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
-<font-face font-family="SourceSans3-Semibold" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
+<font-face font-family="Source Sans 3" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
 <missing-glyph horiz-adv-x="672" d="M84,0l504,0l0,660l-504,0M230,75l57,104l47,100l4,0l46,-100l56,-104M334,401l-46,94l-49,89l193,0l-48,-89l-46,-94M166,133l0,416l111,-209M505,133l-110,207l110,209z"/>
 <glyph unicode="A" horiz-adv-x="558" d="M217,348C238,417 257,491 275,564l4,0C298,492 317,417 338,348l23,-80l-167,0M-2,0l118,0l51,177l220,0l51,-177l122,0l-213,654l-136,0z"/>
 <glyph unicode="&#x1D2C;" horiz-adv-x="375" d="M147,613C160,658 174,706 185,753l2,0C200,707 214,658 226,613l14,-50l-107,0M-3,385l85,0l32,113l144,0l32,-113l89,0l-141,432l-99,0z"/>
@@ -3236,7 +3236,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 121.3121)"><tspan x="0" y="0" class="st0 st3 st4">We all regard heat on demand at all times as a matter of </tspan><tspan x="0" y="19.6" class="st0 st3 st4">course. Here heat pumps can make an important  </tspan><tspan x="0" y="39.2" class="st0 st3 st4">contribution to decarbonization in case the compressor </tspan><tspan x="0" y="58.8" class="st0 st3 st4">pump runs on electricity generated from renewables. </tspan><tspan x="0" y="68.4" class="st0 st3 st5"> </tspan><tspan x="0" y="88" class="st0 st3 st4">The efficiency highlight: A heat pump can take 1 kW of </tspan><tspan x="0" y="107.6" class="st0 st3 st4">electricity to run its motor and draw energy from  </tspan><tspan x="0" y="127.2" class="st0 st3 st4">the environment and then transfer 3 to 6 kW of thermal </tspan><tspan x="0" y="146.8" class="st0 st3 st4">energy into a building. </tspan><tspan x="0" y="156.4" class="st0 st3 st5"> </tspan><tspan x="0" y="176" class="st0 st3 st4">Our semiconductor solutions support the entire range of </tspan><tspan x="0" y="195.6" class="st0 st3 st4">heat pump functions in the indoor and outdoor units. </tspan><tspan x="0" y="215.2" class="st0 st3 st4">Power supply components drive the compressor&apos;s  </tspan><tspan x="0" y="234.8" class="st0 st3 st4">inverter and the fan, sensors measure temperature and </tspan><tspan x="0" y="254.4" class="st0 st3 st4">semiconductor devices support remote control and  </tspan><tspan x="0" y="274" class="st0 st3 st4">internet connectivity.</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 38.583 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Residential heat pumps – </tspan><tspan x="0" y="33" class="st0 st6 st7 text-bold">powered by renewables</tspan></text>
+		<text transform="matrix(1 0 0 1 40 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Residential heat pumps – </tspan><tspan x="0" y="33" class="st0 st6 st7 text-bold">powered by renewables</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3257,28 +3257,27 @@
 	</g>
 </g>
 <g id="Buttons">
-	<g id="Heat_x5F_pump_x5F_Button-01">
-		<line class="st8" x1="598.65" y1="270.73" x2="529.79" y2="270.73"/>
-		<line class="st8" x1="783.74" y1="288.86" x2="529.79" y2="288.86"/>
-		<g>
-			<circle id="animation-video" class="st18" cx="510.46" cy="264" r="10"/>
-			<polygon id="animation-video" class="st0" points="507.41,268.68 515.21,264 507.41,259.32 			"/>
-		</g>
-		<g>
-			<rect x="529.79" y="256.13" class="st2" width="282.56" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 267.7488)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (6:22):</tspan><tspan x="0" y="18" class="st9 st3 st4" id="animation-video">Functionality and benefits briefly explained</tspan></text>
-		</g>
+	<line class="st8" x1="598.65" y1="270.73" x2="529.79" y2="270.73"/>
+	<line class="st8" x1="805.28" y1="288.86" x2="529.79" y2="288.86"/>
+	<line class="st8" x1="582.92" y1="306.86" x2="529.79" y2="306.86"/>
+	<g>
+		<circle id="animation-video" class="st18" cx="510.46" cy="264" r="10"/>
+		<polygon id="animation-video" class="st0" points="507.41,268.68 515.21,264 507.41,259.32 		"/>
+	</g>
+	<g>
+		<rect x="529.79" y="256.13" class="st2" width="289.17" height="53.6"/>
+		<text transform="matrix(1 0 0 1 529.785 267.7483)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (44:12):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Heat pumps – market and technology overview </tspan><tspan x="0" y="36" id="animation-video" class="st9 st3 st4">May 2023</tspan></text>
 	</g>
 	<g id="kitchen_x5F_Button-02">
 		<g>
-			<rect x="500.46" y="314" class="st18" width="320" height="25"/>
+			<rect x="500.46" y="332" class="st18" width="320" height="25"/>
 		</g>
-		<path class="st48" d="M807.65,321.5l5,5l-5,5 M799.92,326.5h12.73"/>
+		<path class="st48" d="M807.65,339.5l5,5l-5,5 M799.92,344.5h12.73"/>
 		<g>
-			<rect x="509.66" y="318.91" class="st2" width="282.56" height="15.62"/>
-				<a target="_blank" href="https://www.infineon.com/cms/en/applications/home-appliances/residential-hvac/residential-heat-pumps/?redirId=205501">
-					<text transform="matrix(1 0 0 1 509.6573 330.5298)" class="st0 st6 st4 text-bold">Full portfolio for heat pumps</text>
-				</a>
+			<rect x="509.66" y="336.91" class="st2" width="282.56" height="15.62"/>
+			<a target="_blank" href="https://www.infineon.com/cms/en/applications/home-appliances/residential-hvac/residential-heat-pumps/?redirId=205501">
+				<text transform="matrix(1 0 0 1 509.6573 348.5298)" class="st0 st6 st4 text-bold">Full portfolio for heat pumps</text>
+			</a>
 		</g>
 	</g>
 </g>
@@ -3316,10 +3315,10 @@
 			<defs>
 				<polygon id="SVGID_1_" points="746.15,156.57 701.23,156.43 722.46,129.53 765.74,129.53 				"/>
 			</defs>
-			<clipPath id="SVGID_00000138566057748015278090000007986337995196345489_">
+			<clipPath id="SVGID_00000121961444773517773580000006027496157770403979_">
 				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 			</clipPath>
-			<g style="clip-path:url(#SVGID_00000138566057748015278090000007986337995196345489_);">
+			<g style="clip-path:url(#SVGID_00000121961444773517773580000006027496157770403979_);">
 				<line class="st19" x1="711.74" y1="132.23" x2="773.39" y2="132.23"/>
 				<line class="st20" x1="709.27" y1="134.93" x2="770.91" y2="134.93"/>
 				<line class="st19" x1="709.27" y1="137.64" x2="770.91" y2="137.64"/>
@@ -3525,21 +3524,22 @@
 		</g>
 	</g>
 </g>
-<script>
+	<script>
 		document.getElementById("svgroot").addEventListener("click", sendClickToParentDocument, false);
 		function sendClickToParentDocument(evt)
 		{
 			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
 			var target = evt.target;
 			if(target.id === "animation-video"){
-				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/smart-lightning.mp4";
-		  		window.parent.document.getElementById("video").style.display = "block";
-		  	 	window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/Webinar_Heatpumps.mp4";
+				window.parent.document.getElementById("video").style.display = "block";
+				window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
 			}
 		}
 
 		function closeVideo() {
 			window.parent.document.getElementById("video").style.display = "none";
+			window.parent.document.getElementById("image-source").pause();
 		}
 	</script>
 </svg>
