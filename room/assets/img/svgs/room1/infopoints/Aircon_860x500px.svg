@@ -15195,7 +15195,7 @@ n2BKf7ehlR6P0GfSn+yv73Sqyf2n2/pt/wDCF/y52V/xQX7kf2V/eyxC/9k=" transform="matrix(
 		// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
 		var target = evt.target;
 		if(target.id === "animation-video"){
-			window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/smart-lightning.mp4";
+			window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/aircon_video.mp4";
 			window.parent.document.getElementById("video").style.display = "block";
 			window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
 		}

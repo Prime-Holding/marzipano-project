@@ -15057,7 +15057,7 @@ rdStijpxafX12M68V5tSSMzCovBP99Af+OqU9HotMfirKP8AjpH+Fqf27f0Fm9Lbl/8AlsI/2D//
 			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
 			var target = evt.target;
 			if(target.id === "animation-video"){
-				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/fast-charging.mp4";
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/solar.mp4";
 				window.parent.document.getElementById("video").style.display = "block";
 				window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
 			}

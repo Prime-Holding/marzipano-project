@@ -36805,7 +36805,7 @@ Ip63Ttxy2PxWbHbflyP+9FK+1Mt+bGPxXT9G+1Tfr1yuSJIKx+0aV+jKw1hHL9k05f7H+OXR5pSe
 			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
 			var target = evt.target;
 			if(target.id === "animation-video"){
-				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/fast-charging.mp4";
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/cordless-power-tool.mp4";
 				window.parent.document.getElementById("video").style.display = "block";
 				window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
 			}
