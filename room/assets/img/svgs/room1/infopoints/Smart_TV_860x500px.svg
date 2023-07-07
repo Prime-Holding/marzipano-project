@@ -3252,16 +3252,16 @@
 </g>
 <g id="Buttons">
 	<g id="Smart-TV_x5F_Button-02">
-		<g>
-			<rect x="500.46" y="299" class="st18" width="320" height="25"/>
-		</g>
-		<path class="st48" d="M807.65,306.5l5,5l-5,5 M799.92,311.5h12.73"/>
-		<g>
-			<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
-			<a target="_blank" href="https://www.infineon.com/cms/de/product/sensor/radar-sensors/radar-sensors-for-iot/60ghz-radar/">
-				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Full portfolio for 60 GHz radar solutions</text>
-			</a>
-		</g>
+		<a target="_blank" href="https://www.infineon.com/cms/de/product/sensor/radar-sensors/radar-sensors-for-iot/60ghz-radar/">
+			<g>
+				<rect x="500.46" y="299" class="st18" width="320" height="25"/>
+			</g>
+			<path class="st48" d="M807.65,306.5l5,5l-5,5 M799.92,311.5h12.73"/>
+			<g>
+				<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
+					<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Full portfolio for 60 GHz radar solutions</text>
+			</g>
+		</a>
 	</g>
 	<g id="Smart-TV_x5F_Button-01" class="pointer">
 		<line class="st8" x1="598.65" y1="256.04" x2="529.79" y2="256.04"/>

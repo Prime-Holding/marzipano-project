@@ -3270,16 +3270,16 @@
 		<text transform="matrix(1 0 0 1 529.785 267.7483)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (44:12):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Heat pumps – market and technology overview </tspan><tspan x="0" y="36" id="animation-video" class="st9 st3 st4">May 2023</tspan></text>
 	</g>
 	<g id="kitchen_x5F_Button-02">
-		<g>
-			<rect x="500.46" y="332" class="st18" width="320" height="25"/>
-		</g>
-		<path class="st48" d="M807.65,339.5l5,5l-5,5 M799.92,344.5h12.73"/>
-		<g>
-			<rect x="509.66" y="336.91" class="st2" width="282.56" height="15.62"/>
-			<a target="_blank" href="https://www.infineon.com/cms/en/applications/home-appliances/residential-hvac/residential-heat-pumps/?redirId=205501">
-				<text transform="matrix(1 0 0 1 509.6573 348.5298)" class="st0 st6 st4 text-bold">Full portfolio for heat pumps</text>
-			</a>
-		</g>
+		<a target="_blank" href="https://www.infineon.com/cms/en/applications/home-appliances/residential-hvac/residential-heat-pumps/?redirId=205501">
+			<g>
+				<rect x="500.46" y="332" class="st18" width="320" height="25"/>
+			</g>
+			<path class="st48" d="M807.65,339.5l5,5l-5,5 M799.92,344.5h12.73"/>
+			<g>
+				<rect x="509.66" y="336.91" class="st2" width="282.56" height="15.62"/>
+					<text transform="matrix(1 0 0 1 509.6573 348.5298)" class="st0 st6 st4 text-bold">Full portfolio for heat pumps</text>
+			</g>
+		</a>
 	</g>
 </g>
 <g id="Picture">

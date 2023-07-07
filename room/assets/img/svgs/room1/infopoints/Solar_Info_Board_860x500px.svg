@@ -3249,16 +3249,16 @@
 </g>
 <g id="Buttons">
 	<g id="Aircon_x5F_Button-02">
-		<g>
-			<rect x="500.46" y="299" class="st18" width="320" height="41.8"/>
-		</g>
-		<path class="st48" d="M807.65,314.9l5,5l-5,5 M799.92,319.9h12.73"/>
-		<g>
-			<a target="_blank" href="https://www.infineon.com/cms/en/about-infineon/energy-efficiency-technologies/3d-experience/">
-				<rect x="509.66" y="303.91" class="st2" width="282.56" height="32.42"/>
-				<text transform="matrix(1 0 0 1 509.6573 315.5332)"><tspan x="0" y="0" class="st0 st6 st4 text-bold">3D experience:  </tspan><tspan x="0" y="16.8" class="st0 st6 st4 text-bold">The micro-perspective of energy efficiency</tspan></text>
-			</a>
-		</g>
+		<a target="_blank" href="https://www.infineon.com/cms/en/about-infineon/energy-efficiency-technologies/3d-experience/">
+			<g>
+				<rect x="500.46" y="299" class="st18" width="320" height="41.8"/>
+			</g>
+			<path class="st48" d="M807.65,314.9l5,5l-5,5 M799.92,319.9h12.73"/>
+				<g>
+					<rect x="509.66" y="303.91" class="st2" width="282.56" height="32.42"/>
+					<text transform="matrix(1 0 0 1 509.6573 315.5332)"><tspan x="0" y="0" class="st0 st6 st4 text-bold">3D experience:  </tspan><tspan x="0" y="16.8" class="st0 st6 st4 text-bold">The micro-perspective of energy efficiency</tspan></text>
+			</g>
+		</a>
 	</g>
 	<g id="Smart-lighting_x5F_Button-01" class="pointer">
 		<line class="st8" x1="773.36" y1="274.17" x2="529.79" y2="274.17"/>

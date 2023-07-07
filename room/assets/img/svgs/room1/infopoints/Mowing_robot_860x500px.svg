@@ -3239,16 +3239,16 @@
 </g>
 <g id="Buttons">
 	<g id="Mowing_x5F_Button-02">
-		<g>
-			<rect x="500.46" y="299" class="st18" width="320" height="25"/>
-		</g>
-		<path class="st48" d="M807.65,306.5l5,5l-5,5 M799.92,311.5h12.73"/>
-		<g>
-			<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
-			<a target="_blank" href="https://www.infineon.com/cms/en/applications/consumer-electronics/power-tools/battery-powered/">
+		<a target="_blank" href="https://www.infineon.com/cms/en/applications/consumer-electronics/power-tools/battery-powered/">
+			<g>
+				<rect x="500.46" y="299" class="st18" width="320" height="25"/>
+			</g>
+			<path class="st48" d="M807.65,306.5l5,5l-5,5 M799.92,311.5h12.73"/>
+			<g>
+				<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
 				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Full portfolio for battery-powered tools</text>
-			</a>
-		</g>
+			</g>
+		</a>
 	</g>
 	<g id="Mowing_x5F_Button-01" class="pointer">
 		<g>
@@ -36805,7 +36805,7 @@ Ip63Ttxy2PxWbHbflyP+9FK+1Mt+bGPxXT9G+1Tfr1yuSJIKx+0aV+jKw1hHL9k05f7H+OXR5pSe
 			// SVGElementInstance objects aren't normal DOM nodes, so fetch the corresponding 'use' element instead
 			var target = evt.target;
 			if(target.id === "animation-video"){
-				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/cordless-power-tool.mp4";
+				window.parent.document.getElementById("image-source").src = "./room/assets/img/svgs/room1/popup/cordless-power-tool-new.mp4";
 				window.parent.document.getElementById("video").style.display = "block";
 				window.parent.document.getElementById("close-video").addEventListener("click", closeVideo, false);
 			}

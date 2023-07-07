@@ -3235,16 +3235,16 @@
 </g>
 <g id="Buttons">
 	<g id="Charger_x5F_Button-02">
-		<g>
-			<rect x="500.46" y="317" class="st18" width="320" height="25"/>
-		</g>
-		<path class="st48" d="M807.65,324.5l5,5l-5,5 M799.92,329.5h12.73"/>
-		<g>
-			<rect x="509.66" y="321.91" class="st2" width="282.56" height="15.62"/>
-			<a target="_blank" href="https://www.infineon.com/cms/en/product/promopages/gan-charger/#cE">
-				<text transform="matrix(1 0 0 1 509.6573 333.5332)" class="st0 st6 st4 text-bold">Whitepaper: GaN charger/adapter solutions</text>
-			</a>
-		</g>
+		<a target="_blank" href="https://www.infineon.com/cms/en/product/promopages/gan-charger/#cE">
+			<g>
+				<rect x="500.46" y="317" class="st18" width="320" height="25"/>
+			</g>
+			<path class="st48" d="M807.65,324.5l5,5l-5,5 M799.92,329.5h12.73"/>
+			<g>
+				<rect x="509.66" y="321.91" class="st2" width="282.56" height="15.62"/>
+					<text transform="matrix(1 0 0 1 509.6573 333.5332)" class="st0 st6 st4 text-bold">Whitepaper: GaN charger/adapter solutions</text>
+			</g>
+		</a>
 	</g>
 	<g id="Charger_x5F_Button-01" class="pointer">
 		<line class="st8" x1="751.23" y1="274.17" x2="529.79" y2="274.17"/>
