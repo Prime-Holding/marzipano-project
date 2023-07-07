@@ -6,10 +6,10 @@
 	.st0{fill:#FFFFFF;}
 	.st18{fill:#0A8276;}
 	.st2{fill:none;}
-	.st3{font-family:"Source Sans 3", sans-serif;}
+	.st3{font-family:"Source Sans Pro", sans-serif;}
 	.st4{font-size:14px;}
 	.st5{font-size:8px;}
-	.st6{font-family:"Source Sans 3", sans-serif;}
+	.st6{font-family:"Source Sans Pro", sans-serif;}
 	.st7{font-size:30px;}
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
@@ -19,7 +19,7 @@
 </style>
 <font horiz-adv-x="1000">
 <!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
-<font-face font-family="Source Sans 3" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
+<font-face font-family="Source Sans Pro" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
 <missing-glyph horiz-adv-x="672" d="M84,0l504,0l0,660l-504,0M230,75l57,104l47,100l4,0l46,-100l56,-104M334,401l-46,94l-49,89l193,0l-48,-89l-46,-94M166,133l0,416l111,-209M505,133l-110,207l110,209z"/>
 <glyph unicode="A" horiz-adv-x="558" d="M217,348C238,417 257,491 275,564l4,0C298,492 317,417 338,348l23,-80l-167,0M-2,0l118,0l51,177l220,0l51,-177l122,0l-213,654l-136,0z"/>
 <glyph unicode="&#x1D2C;" horiz-adv-x="375" d="M147,613C160,658 174,706 185,753l2,0C200,707 214,658 226,613l14,-50l-107,0M-3,385l85,0l32,113l144,0l32,-113l89,0l-141,432l-99,0z"/>
@@ -3266,16 +3266,18 @@
 </g>
 <g id="Buttons">
 	<g id="Smart-lighting_x5F_Button-02">
+		<a target="_blank" href="https://www.infineon.com/cms/en/applications/smart-home-building/home-building-automation/connected-and-smart-lighting/">
 		<g>
 			<rect x="500.46" y="299" class="st18" width="320" height="25"/>
 		</g>
 		<path class="st48" d="M807.65,306.5l5,5l-5,5 M799.92,311.5h12.73"/>
 		<g>
 			<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
-			<a target="_blank" href="https://www.infineon.com/cms/en/applications/smart-home-building/home-building-automation/connected-and-smart-lighting/">
+			
 				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Full portfolio for smart lighting</text>
-			</a>
+			
 		</g>
+		</a>
 	</g>
 	<g id="Smart-lighting_x5F_Button-01" class="pointer">
 		<line class="st8" x1="817.29" y1="274.17" x2="529.79" y2="274.17"/>
