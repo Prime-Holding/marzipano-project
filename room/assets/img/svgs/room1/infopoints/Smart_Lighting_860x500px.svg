@@ -7,18 +7,23 @@
 		font-family: SourceSansPro-Regular;
 		src: url('../../../fonts/SourceSansPro-Regular.ttf.woff');
 	}
+
+	@font-face {
+		font-family: SourceSansPro-Semibold;
+		src: url('../../../fonts/SourceSansPro-Semibold.ttf.woff');
+	}
+
 	.st0{fill:#FFFFFF;}
 	.st18{fill:#0A8276;}
 	.st2{fill:none;}
 	.st3{font-family:'SourceSansPro-Regular'}
 	.st4{font-size:14px;}
 	.st5{font-size:8px;}
-	.st6{font-family:'SourceSansPro-Regular'}
+	.st6{font-family:'SourceSansPro-Semibold'}
 	.st7{font-size:30px;}
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
-	.text-bold{font-weight: 600;}
 	.pointer:hover{cursor:pointer}
 </style>
 <font horiz-adv-x="1000">
@@ -3244,7 +3249,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 405.3116)" class="st0 st3 st4">sector alone.</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40.0002 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Smart lighting – </tspan><tspan x="0" y="33" class="st0  text-bold st6 st7">only on when needed</tspan></text>
+		<text transform="matrix(1 0 0 1 40.0002 54.9)"><tspan x="0" y="0" class="st0 st6 st7 ">Smart lighting – </tspan><tspan x="0" y="33" class="st0   st6 st7">only on when needed</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3278,7 +3283,7 @@
 		<g>
 			<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
 			
-				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Full portfolio for smart lighting</text>
+				<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 ">Full portfolio for smart lighting</text>
 			
 		</g>
 		</a>
@@ -3292,7 +3297,7 @@
 		</g>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="290.21" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (2:50):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Smart lighting with XENSIV™ 60 GHz radar sensor</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 ">Video (2:50):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Smart lighting with XENSIV™ 60 GHz radar sensor</tspan></text>
 		</g>
 	</g>
 </g>

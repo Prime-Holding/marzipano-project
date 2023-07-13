@@ -8,18 +8,22 @@
 		src: url('../../../fonts/SourceSansPro-Regular.ttf.woff');
 	}
 
+	@font-face {
+		font-family: SourceSansPro-Semibold;
+		src: url('../../../fonts/SourceSansPro-Semibold.ttf.woff');
+	}
+
 	.st0{fill:#FFFFFF;}
 	.st18{fill:#0A8276;}
 	.st2{fill:none;}
 	.st3{font-family:'SourceSansPro-Regular'}
 	.st4{font-size:14px;}
 	.st5{font-size:8px;}
-	.st6{font-family:'SourceSansPro-Regular'}
+	.st6{font-family:'SourceSansPro-Semibold'}
 	.st7{font-size:30px;}
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
-	.text-bold{font-weight: 600;}
 	.pointer:hover{cursor:pointer}
 </style>
 <font horiz-adv-x="1000">
@@ -3229,7 +3233,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 121.3121)"><tspan x="0" y="0" class="st0 st3 st4">The past seven years have been the hottest ever recorded. </tspan><tspan x="0" y="19.6" class="st0 st3 st4">The need for indoor cooling is strongly on the rise. Whether </tspan><tspan x="0" y="39.2" class="st0 st3 st4">we are shopping in a mall, working in an office, or staying in </tspan><tspan x="0" y="58.8" class="st0 st3 st4">a hospital, a temperature-controlled atmosphere is </tspan><tspan x="0" y="78.4" class="st0 st3 st4">pleasant, necessary, and can even be crucial to our health.</tspan><tspan x="0" y="88" class="st0 st3 st5"> </tspan><tspan x="0" y="107.6" class="st0 st3 st4">Intelligent air conditioning systems not only do their job as </tspan><tspan x="0" y="127.2" class="st0 st3 st4">usual, they do it the smart way. Thanks to targeted cooling </tspan><tspan x="0" y="146.8" class="st0 st3 st4">they help reduce power consumption and increase comfort. </tspan><tspan x="0" y="166.4" class="st0 st3 st4">To adjust performance to real needs, these devices are able </tspan><tspan x="0" y="186" class="st0 st3 st4">to &apos;see&apos;, &apos;hear&apos; and &apos;feel&apos; their surroundings – with the help </tspan><tspan x="0" y="205.6" class="st0 st3 st4">of sensors and controllers. This “intelligence” can save a lot </tspan><tspan x="0" y="225.2" class="st0 st3 st4">of energy. </tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40.0598 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Air conditioning – energy </tspan><tspan x="0" y="33" class="st0 st6 st7 text-bold">savings the smart way</tspan></text>
+		<text transform="matrix(1 0 0 1 40.0598 54.9)"><tspan x="0" y="0" class="st0 st6 st7">Air conditioning – energy </tspan><tspan x="0" y="33" class="st0 st6 st7">savings the smart way</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3256,7 +3260,7 @@
 			<path class="st48" d="M807.65,306.5l5,5l-5,5 M799.92,311.5h12.73"/>
 			<g>
 				<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
-					<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Full portfolio for residential aircon</text>
+					<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4">Full portfolio for residential aircon</text>
 			</g>
 		</a>
 	</g>
@@ -3269,7 +3273,7 @@
 		</g>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="290.21" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan id="animation-video" x="0" y="0" class="st18 st6 st4 text-bold">Video (2:31):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Smart aircon demo at Electronica 2022</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan id="animation-video" x="0" y="0" class="st18 st6 st4">Video (2:31):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Smart aircon demo at Electronica 2022</tspan></text>
 		</g>
 	</g>
 </g>

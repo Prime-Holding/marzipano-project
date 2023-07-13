@@ -7,18 +7,22 @@
 		font-family: SourceSansPro-Regular;
 		src: url('../../../fonts/SourceSansPro-Regular.ttf.woff');
 	}
+	@font-face {
+		font-family: SourceSansPro-Semibold;
+		src: url('../../../fonts/SourceSansPro-Semibold.ttf.woff');
+	}
+
 	.st0{fill:#FFFFFF;}
 	.st18{fill:#0A8276;}
 	.st2{fill:none;}
 	.st3{font-family:'SourceSansPro-Regular'}
 	.st4{font-size:14px;}
 	.st5{font-size:8px;}
-	.st6{font-family:'SourceSansPro-Regular'}
+	.st6{font-family:'SourceSansPro-Semibold'}
 	.st7{font-size:30px;}
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
-	.text-bold{font-weight: 600;}
 	.pointer:hover{cursor:pointer}
 </style>
 <font horiz-adv-x="1000">
@@ -3227,7 +3231,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 154.6003)"><tspan x="0" y="0" class="st0 st3 st4">Can you imagine life without portable communication </tspan><tspan x="0" y="19.6" class="st0 st3 st4">devices? Living without your laptop, tablet or mobile </tspan><tspan x="0" y="39.2" class="st0 st3 st4">phone? However, none of these necessary and entertaining </tspan><tspan x="0" y="58.8" class="st0 st3 st4">devices are of any use to us if the battery is empty. So, </tspan><tspan x="0" y="78.4" class="st0 st3 st4">chargers are one of those tiny things of great importance. </tspan><tspan x="0" y="98" class="st0 st3 st4">We expect them to be fast charging, reliable, convenient </tspan><tspan x="0" y="117.6" class="st0 st3 st4">and green. Modern chargers especially equipped with  </tspan><tspan x="0" y="137.2" class="st0 st3 st4">an USB port offer all of these aspects – with the help of </tspan><tspan x="0" y="156.8" class="st0 st3 st4">innovative microelectronics. </tspan><tspan x="0" y="166.4" class="st0 st3 st5"> </tspan><tspan x="0" y="186" class="st0 st3 st4">Infineon’s semiconductors, first and foremost gallium </tspan><tspan x="0" y="205.6" class="st0 st3 st4">nitride components, reduce energy losses and increase </tspan><tspan x="0" y="225.2" class="st0 st3 st4">performance. They also promote USB-C technology, </tspan><tspan x="0" y="244.8" class="st0 st3 st4">which helps avoid large amounts of electronic waste.</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40 54.9)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">Chargers and adapters </tspan><tspan x="0" y="33" class="text-bold st0 st6 st7">go green – with innovative </tspan><tspan x="0" y="66" class="st0 st6 st7 text-bold">power chips</tspan></text>
+		<text transform="matrix(1 0 0 1 40 54.9)"><tspan x="0" y="0" class="st0 st6 st7 ">Chargers and adapters </tspan><tspan x="0" y="33" class=" st0 st6 st7">go green – with innovative </tspan><tspan x="0" y="66" class="st0 st6 st7 ">power chips</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3246,7 +3250,7 @@
 			<path class="st48" d="M807.65,324.5l5,5l-5,5 M799.92,329.5h12.73"/>
 			<g>
 				<rect x="509.66" y="321.91" class="st2" width="282.56" height="15.62"/>
-					<text transform="matrix(1 0 0 1 509.6573 333.5332)" class="st0 st6 st4 text-bold">Whitepaper: GaN charger/adapter solutions</text>
+					<text transform="matrix(1 0 0 1 509.6573 333.5332)" class="st0 st6 st4 ">Whitepaper: GaN charger/adapter solutions</text>
 			</g>
 		</a>
 	</g>
@@ -3255,7 +3259,7 @@
 		<line class="st8" x1="609.22" y1="292.17" x2="529.79" y2="292.17"/>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="290.21" height="55.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (1:01):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">USB-C fast charging solutions tailored  </tspan><tspan x="0" y="36" id="animation-video" class="st9 st3 st4">to your needs</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 ">Video (1:01):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">USB-C fast charging solutions tailored  </tspan><tspan x="0" y="36" id="animation-video" class="st9 st3 st4">to your needs</tspan></text>
 		</g>
 		<line class="st8" x1="598.65" y1="256.04" x2="529.79" y2="256.04"/>
 		<g>

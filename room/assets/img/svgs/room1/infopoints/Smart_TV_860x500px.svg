@@ -7,18 +7,23 @@
 		font-family: SourceSansPro-Regular;
 		src: url('../../../fonts/SourceSansPro-Regular.ttf.woff');
 	}
+
+	@font-face {
+		font-family: SourceSansPro-Semibold;
+		src: url('../../../fonts/SourceSansPro-Semibold.ttf.woff');
+	}
+
 	.st0{fill:#FFFFFF;}
 	.st18{fill:#0A8276;}
 	.st2{fill:none;}
 	.st3{font-family:'SourceSansPro-Regular'}
 	.st4{font-size:14px;}
 	.st5{font-size:8px;}
-	.st6{font-family:'SourceSansPro-Regular'}
+	.st6{font-family:'SourceSansPro-Semibold'}
 	.st7{font-size:30px;}
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
-	.text-bold{font-weight: 600;}
 	.pointer:hover{cursor:pointer}
 </style>
 <font horiz-adv-x="1000">
@@ -3227,7 +3232,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 88.6721)"><tspan x="0" y="0" class="st0 st3 st4">Wouldn’t it be nice to look at a pleasant artwork instead of </tspan><tspan x="0" y="19.6" class="st0 st3 st4">a black space when your TV is not in use? The Samsung </tspan><tspan x="0" y="39.2" class="st0 st3 st4">Frame TV offers this feature. However, an artwork screen </tspan><tspan x="0" y="58.8" class="st0 st3 st4">that is “always on” would also consume a lot of energy. </tspan><tspan x="0" y="68.4" class="st0 st3 st5"> </tspan><tspan x="0" y="88" class="st0 st3 st4">That’s why the device contains a radar sensor that can </tspan><tspan x="0" y="107.6" class="st0 st3 st4">detect people in the room and turns off the art mode once </tspan><tspan x="0" y="127.2" class="st0 st3 st4">nobody is around. This not only saves OLED lifetime but </tspan><tspan x="0" y="146.8" class="st0 st3 st4">also energy. Very clever!</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40 54.9)" class="st0 st6 st7 text-bold">Smart TV – show me art</text>
+		<text transform="matrix(1 0 0 1 40 54.9)" class="st0 st6 st7 ">Smart TV – show me art</text>
 	</g>
 </g>
 <g id="Icons">
@@ -3263,7 +3268,7 @@
 			<path class="st48" d="M807.65,306.5l5,5l-5,5 M799.92,311.5h12.73"/>
 			<g>
 				<rect x="509.66" y="303.91" class="st2" width="282.56" height="15.62"/>
-					<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 text-bold">Full portfolio for 60 GHz radar solutions</text>
+					<text transform="matrix(1 0 0 1 509.6573 315.5332)" class="st0 st6 st4 ">Full portfolio for 60 GHz radar solutions</text>
 			</g>
 		</a>
 	</g>
@@ -3276,7 +3281,7 @@
 		</g>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="282.56" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (1:09):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Samsung Frame TV with Infineon&apos;s radar sensor</tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 ">Video (1:09):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Samsung Frame TV with Infineon&apos;s radar sensor</tspan></text>
 		</g>
 	</g>
 </g>

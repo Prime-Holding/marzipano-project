@@ -7,18 +7,23 @@
 		font-family: SourceSansPro-Regular;
 		src: url('../../../fonts/SourceSansPro-Regular.ttf.woff');
 	}
+
+	@font-face {
+		font-family: SourceSansPro-Semibold;
+		src: url('../../../fonts/SourceSansPro-Semibold.ttf.woff');
+	}
+
 	.st0{fill:#FFFFFF;}
 	.st18{fill:#0A8276;}
 	.st2{fill:none;}
 	.st3{font-family:'SourceSansPro-Regular'}
 	.st4{font-size:14px;}
 	.st5{font-size:8px;}
-	.st6{font-family:'SourceSansPro-Regular'}
+	.st6{font-family:'SourceSansPro-Semibold'}
 	.st7{font-size:30px;}
 	.st48{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#0A8276;stroke-width:0.5;stroke-miterlimit:10;}
 	.st9{fill:#1D1D1D;}
-	.text-bold{font-weight: 600;}
 	.pointer:hover{cursor:pointer}
 </style>
 <font horiz-adv-x="1000">
@@ -3227,7 +3232,7 @@
 		<text transform="matrix(1 0 0 1 39.9998 121.6)"><tspan x="0" y="0" class="st0 st3 st4">Private green energy generation is on the rise.  </tspan><tspan x="0" y="19.6" class="st0 st3 st4">Photovoltaic (PV) can provide an accessible way to  </tspan><tspan x="0" y="39.2" class="st0 st3 st4">achieve energy independence by making energy  </tspan><tspan x="0" y="58.8" class="st0 st3 st4">generation and consumption possible at home. But  </tspan><tspan x="0" y="78.4" class="st0 st3 st4">convenient electricity at night and on cloudy days </tspan><tspan x="0" y="98" class="st0 st3 st4">requires combining self-supply with on-site energy  </tspan><tspan x="0" y="117.6" class="st0 st3 st4">storage capacity.  </tspan><tspan x="0" y="127.2" class="st0 st3 st5"> </tspan><tspan x="0" y="146.8" class="st0 st3 st4">Hybrid inverters cover both requirements. They connect </tspan><tspan x="0" y="166.4" class="st0 st3 st4">multiple PV panels and convert the generated direct  </tspan><tspan x="0" y="186" class="st0 st3 st4">current (DC) to alternating current (AC) that home  </tspan><tspan x="0" y="205.6" class="st0 st3 st4">appliances use. And they can also supply DC current </tspan><tspan x="0" y="225.2" class="st0 st3 st4">directly to Energy Storage Systems, e.g. batteries. </tspan><tspan x="0" y="234.8" class="st0 st3 st5"> </tspan><tspan x="0" y="254.4" class="st0 st3 st4">Our semiconductors make all this possible. See where  </tspan><tspan x="0" y="274" class="st0 st3 st4">and how. </tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 40.0002 54.8998)"><tspan x="0" y="0" class="st0 st6 st7 text-bold">When you think renewables, </tspan><tspan x="0" y="33" class="text-bold st0 st6 st7">think storage</tspan></text>
+		<text transform="matrix(1 0 0 1 40.0002 54.8998)"><tspan x="0" y="0" class="st0 st6 st7 ">When you think renewables, </tspan><tspan x="0" y="33" class=" st0 st6 st7">think storage</tspan></text>
 	</g>
 </g>
 <g id="Icons">
@@ -3260,7 +3265,7 @@
 			<path class="st48" d="M807.65,314.9l5,5l-5,5 M799.92,319.9h12.73"/>
 				<g>
 					<rect x="509.66" y="303.91" class="st2" width="282.56" height="32.42"/>
-					<text transform="matrix(1 0 0 1 509.6573 315.5332)"><tspan x="0" y="0" class="st0 st6 st4 text-bold">3D experience:  </tspan><tspan x="0" y="16.8" class="st0 st6 st4 text-bold">The micro-perspective of energy efficiency</tspan></text>
+					<text transform="matrix(1 0 0 1 509.6573 315.5332)"><tspan x="0" y="0" class="st0 st6 st4 ">3D experience:  </tspan><tspan x="0" y="16.8" class="st0 st6 st4 ">The micro-perspective of energy efficiency</tspan></text>
 			</g>
 		</a>
 	</g>
@@ -3273,7 +3278,7 @@
 		</g>
 		<g>
 			<rect x="529.79" y="241.43" class="st2" width="290.21" height="37.3"/>
-			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 text-bold">Video (4:01):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Semiconductor solutions for photovoltaic </tspan></text>
+			<text transform="matrix(1 0 0 1 529.785 253.0531)"><tspan x="0" y="0" id="animation-video" class="st18 st6 st4 ">Video (4:01):</tspan><tspan x="0" y="18" id="animation-video" class="st9 st3 st4">Semiconductor solutions for photovoltaic </tspan></text>
 		</g>
 	</g>
 </g>
